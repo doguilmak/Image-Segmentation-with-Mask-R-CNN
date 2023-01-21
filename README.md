@@ -44,7 +44,7 @@
 
 <br>
 
-<h3>Image With Object Detection</h3>
+<h3>Image With Segmentation</h3>
 
 <div align="center">
 	<img width=600  height=1000 src="oslo_segmented.png"> 
