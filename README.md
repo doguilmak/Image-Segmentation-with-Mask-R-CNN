@@ -39,7 +39,7 @@
 <h3>Image Without Segmentation</h3>
 
 <div align="center">
-	<img width=1000  height=500 src="oslo.jpg">
+	<img width=500  height=800 src="oslo.jpg">
 </div>
 
 <br>
@@ -47,7 +47,7 @@
 <h3>Image With Object Detection</h3>
 
 <div align="center">
-	<img width=1000  height=600 src="oslo_segmented.png"> 
+	<img width=600  height=1000 src="oslo_segmented.png"> 
 </div>
 
 <br>
