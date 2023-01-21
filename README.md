@@ -2,7 +2,7 @@
 
 <br>
 
-<img  src="/content/berlin_segmented.png"  alt="oslo_segmented">
+<img  src="berlin_segmented.png"  alt="berlin_segmented">
 
 <small>Picture Source:<a  href="https://github.com/doguilmak"> Doğu İlmak</a></small>
 
@@ -38,13 +38,17 @@
 
 <h3>Image Without Segmentation</h3>
 
-<img width=1000  height=500 src="oslo.jpg">
+<div align="center">
+	<img width=1000  height=500 src="oslo.jpg">
+</div>
 
 <br>
 
 <h3>Image With Object Detection</h3>
 
-<img width=1000  height=600 src="oslo_segmented.png"> 
+<div align="center">
+	<img width=1000  height=600 src="oslo_segmented.png"> 
+</div>
 
 <br>
 
