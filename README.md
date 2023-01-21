@@ -12,11 +12,11 @@
 
 <p>You will see how to use a <a  href='https://arxiv.org/abs/1703.06870'>Mask R-CNN</a> model from Tensorflow Hub for object detection and instance segmentation. This means that aside from the bounding boxes, the model is also able to predict segmentation masks for each instance of a class in the image. In this repository, we are going to use photos that I selected from the photos I took in the cities I visited. In addition, I would like to thank <b>Laurence Moroney</b>. I gained most of the knowledge I have gained thanks to him. I have endless respect to you.</p>
 
-  <br>
+<br>
 
-  <h2>References</h2>
+<h2>References</h2>
 
-  <ol>
+<ol>
 	<li><a  href="https://laurencemoroney.com/">Laurence Moroney</a></li>
 	<li><a href="https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow#instructors">Advanced Computer Vision with TensorFlow</a></li>
 	<li><a href="https://github.com/tensorflow/models">TensorFlow GitHub</a></li>
