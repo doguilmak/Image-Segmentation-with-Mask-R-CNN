@@ -10,7 +10,7 @@
 
 <h2>Content</h2>
 
-<p>You will see how to use a <a  href='https://arxiv.org/abs/1703.06870'>Mask R-CNN</a> model from Tensorflow Hub for object detection and instance segmentation. This means that aside from the bounding boxes, the model is also able to predict segmentation masks for each instance of a class in the image. In this repository, we are going to use photos that I selected from the photos I took in the cities I visited. In addition, I would like to thank <b>Laurence Moroney</b>. I gained most of the knowledge I have gained thanks to him. I have endless respect to you.</p>
+<p>You will see how to use a <a  href='https://arxiv.org/abs/1703.06870'>Mask R-CNN</a> model from Tensorflow Hub for object detection and instance segmentation. This means that aside from the bounding boxes, the model is also able to predict segmentation masks for each instance of a class in the image. In this repository, we are going to use photos that I selected from the photos I took in the cities I visited. You can use my pictures of the cities (Berlin, Budapest, Gdansk, Krakow, Olsztyn, Oslo, Prague and Warsaw) for image segmentation. In addition, I would like to thank <b>Laurence Moroney</b>. I gained most of the knowledge I have gained thanks to him. I have endless respect to you.</p>
 
 <br>
 
