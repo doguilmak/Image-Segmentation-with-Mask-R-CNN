@@ -36,6 +36,8 @@
 
 <br>
 
+<h2>Segmentation</h2>
+
 <h3>Image Without Segmentation</h3>
 
 <div align="center">
