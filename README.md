@@ -17,7 +17,7 @@
 <h2>References</h2>
 
 <ol>
-	<li><a  href="https://laurencemoroney.com/">Laurence Moroney</a></li>
+	<li><a href="https://laurencemoroney.com/">Laurence Moroney</a></li>
 	<li><a href="https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow#instructors">Advanced Computer Vision with TensorFlow</a></li>
 	<li><a href="https://github.com/tensorflow/models">TensorFlow GitHub</a></li>
 </ol>
